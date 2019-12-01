@@ -37,7 +37,7 @@ header nav a {
   width: 200px;
   height: 50px;
   text-decoration: none;
-  color: wheat;
+  color: white;
 }
 header nav a:hover {
   background-color: darkgray;
@@ -76,6 +76,7 @@ main[class=index] article a {
 main[class=index] article a div {
   color: black;
   font-size: 30px;
+  text-align: left;
 }
 main[class=index] article a img {
   width: 40%;

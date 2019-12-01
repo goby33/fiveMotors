@@ -36,7 +36,7 @@ header {
       width: 200px;
       height: 50px;
       text-decoration: none;
-      color: wheat;
+      color: white;
       &:hover {
         background-color: $backgroundNavHover;
       }
@@ -78,6 +78,7 @@ main {
         div {
           color:black;
           font-size: 30px;
+          text-align: left;
 
         }
          img {
